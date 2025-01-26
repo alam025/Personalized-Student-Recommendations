@@ -69,6 +69,8 @@ plt.xlabel('Score')
 plt.ylabel('Frequency')
 plt.show()
 
+![Image](https://github.com/user-attachments/assets/38ea9d89-c904-4f86-9a3c-2d0da5701bd8)
+
 
 # Step 4: Personalized Recommendations📌
 Based on the performance, we generate recommendations for students. These could be to focus on specific topics or difficulty levels.
